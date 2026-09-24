@@ -1,3 +1,0 @@
-# Assets
-
-Raw data.
