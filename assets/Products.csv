@@ -1,0 +1,200 @@
+Product_ID,Product_Name,Category,Sub_Category,Brand,Unit_Price,Cost_Price,Stock
+1,NovaPhone X1 - Lite,Electronics,Smartphones,PixelForge,66.76,35.07,114
+2,PixelForge Ultra - Blue,Electronics,Smartphones,QuantumGear,1024.74,607.81,44
+3,Aether 12 Pro,Electronics,Smartphones,QuantumGear,73.79,38.3,258
+4,Quantum S9 - Blue,Electronics,Smartphones,PixelForge,1082.54,619.37,214
+5,SonicWave Max - White,Electronics,Smartphones,AetherTech,1219.85,604.7,81
+6,SonicWave Max,Electronics,Smartphones,TechNova,438.46,227.42,172
+7,NovaBook Air - Lite,Electronics,Laptops,TechNova,172.16,101.27,135
+8,NovaBook Air - Pro,Electronics,Laptops,TechNova,705.34,358.83,193
+9,ForgePro 15 - Black,Electronics,Laptops,QuantumGear,1249.21,703.35,185
+10,ForgePro 15,Electronics,Laptops,SonicWave,1065.71,532.9,116
+11,AetherBook Elite - Black,Electronics,Laptops,SonicWave,1303.72,699.85,232
+12,Quantum Laptop 14 - Lite,Electronics,Laptops,QuantumGear,552.24,314.07,36
+13,Quantum Laptop 14 - Blue,Electronics,Laptops,AetherTech,281.56,161.95,83
+14,SonicWave Notebook - Lite,Electronics,Laptops,PixelForge,1484.59,839.39,285
+15,SonicWave Notebook - Large,Electronics,Laptops,PixelForge,506.69,293.63,28
+16,SonicWave Pro ANC - Pro,Electronics,Headphones,PixelForge,1213.41,654.18,33
+17,AetherBuds Max - White,Electronics,Headphones,PixelForge,342.55,188.37,234
+18,AetherBuds Max - Lite,Electronics,Headphones,SonicWave,235.25,135.73,275
+19,Quantum Sound X - Pro,Electronics,Headphones,PixelForge,1349.79,727.45,112
+20,Quantum Sound X - Lite,Electronics,Headphones,PixelForge,755.46,436.76,56
+21,NovaEars Elite - Blue,Electronics,Headphones,AetherTech,1194.35,646.67,32
+22,ForgeAudio HD - Lite,Electronics,Headphones,TechNova,807.79,486.14,5
+23,ForgeAudio HD - White,Electronics,Headphones,TechNova,1330.63,768.57,174
+24,NovaWatch S3 - Large,Electronics,Smartwatches,QuantumGear,262.48,130.02,134
+25,NovaWatch S3 - Pro,Electronics,Smartwatches,QuantumGear,292.61,174.22,152
+26,AetherBand Pro,Electronics,Smartwatches,QuantumGear,254.66,147.42,276
+27,Quantum Time - Black,Electronics,Smartwatches,SonicWave,748.24,379.59,185
+28,Quantum Time - Lite,Electronics,Smartwatches,TechNova,115.14,68.11,40
+29,ForgeFit Ultra - Black,Electronics,Smartwatches,PixelForge,1229.54,740.89,272
+30,ForgeFit Ultra - Pro,Electronics,Smartwatches,SonicWave,999.82,599.05,84
+31,SonicWave Tracker - Blue,Electronics,Smartwatches,SonicWave,1447.6,864.48,102
+32,SonicWave Tracker - Blue,Electronics,Smartwatches,QuantumGear,1492.86,845.69,224
+33,NovaTab 11 - Pro,Electronics,Tablets,QuantumGear,394.41,198.01,10
+34,AetherPad Pro,Electronics,Tablets,PixelForge,895.0,443.73,30
+35,Quantum Tablet - Lite,Electronics,Tablets,SonicWave,1293.65,650.44,121
+36,ForgeTab X - Blue,Electronics,Tablets,QuantumGear,344.92,175.76,292
+37,ForgeTab X,Electronics,Tablets,PixelForge,387.2,211.81,208
+38,SonicWave Slate - Large,Electronics,Tablets,AetherTech,998.69,533.27,210
+39,NovaCam 4K - Blue,Electronics,Cameras,TechNova,1019.84,615.23,50
+40,AetherShot Pro - Pro,Electronics,Cameras,PixelForge,1206.86,611.9,98
+41,AetherShot Pro - Black,Electronics,Cameras,AetherTech,689.45,373.27,142
+42,Quantum Lens X,Electronics,Cameras,TechNova,681.39,401.85,281
+43,ForgeVision - Blue,Electronics,Cameras,PixelForge,1454.41,868.14,121
+44,SonicWave Camera - Blue,Electronics,Cameras,PixelForge,737.59,435.26,30
+45,SonicWave Camera - Blue,Electronics,Cameras,SonicWave,33.16,17.84,232
+46,NovaCharge Fast - Lite,Electronics,Accessories,QuantumGear,257.54,135.89,29
+47,NovaCharge Fast - Pro,Electronics,Accessories,TechNova,827.02,477.42,29
+48,AetherCase Pro - Pro,Electronics,Accessories,TechNova,769.18,452.89,80
+49,AetherCase Pro - Blue,Electronics,Accessories,PixelForge,147.75,76.16,34
+50,Quantum Cable Pack,Electronics,Accessories,QuantumGear,1414.14,788.62,296
+51,ForgeStand - White,Electronics,Accessories,SonicWave,646.25,361.39,267
+52,SonicWave Dock - Black,Electronics,Accessories,AetherTech,1014.49,537.23,135
+53,Classic Oxford Shirt - Blue,Clothing,Men Apparel,UrbanThread,96.86,42.07,37
+54,Classic Oxford Shirt - Pro,Clothing,Men Apparel,UrbanThread,128.01,51.85,51
+55,Slim Fit Chinos - Black,Clothing,Men Apparel,UrbanThread,106.11,39.32,178
+56,Performance Polo - Pro,Clothing,Men Apparel,ActiveWear Co,64.14,25.34,278
+57,Performance Polo - Lite,Clothing,Men Apparel,UrbanThread,196.92,83.61,270
+58,Wool Blend Blazer,Clothing,Men Apparel,ActiveWear Co,187.02,68.88,68
+59,Wool Blend Blazer - White,Clothing,Men Apparel,ActiveWear Co,179.04,75.09,79
+60,Casual Denim Jacket - Blue,Clothing,Men Apparel,EcoCloth,146.34,55.07,135
+61,Floral Summer Dress - Large,Clothing,Women Apparel,StyleVault,182.0,77.84,47
+62,Floral Summer Dress - Black,Clothing,Women Apparel,ActiveWear Co,62.56,22.54,66
+63,High-Waist Jeans,Clothing,Women Apparel,UrbanThread,114.81,45.26,4
+64,High-Waist Jeans,Clothing,Women Apparel,EcoCloth,189.55,78.72,76
+65,Cashmere Sweater - White,Clothing,Women Apparel,UrbanThread,120.67,44.87,65
+66,Cashmere Sweater - Black,Clothing,Women Apparel,ActiveWear Co,79.27,34.45,20
+67,Linen Blouse - Pro,Clothing,Women Apparel,StyleVault,136.71,53.08,286
+68,Athleisure Leggings - Blue,Clothing,Women Apparel,LuxeLine,185.89,70.44,83
+69,Kids Graphic Tee - White,Clothing,Kids Wear,LuxeLine,44.07,19.12,210
+70,Denim Overalls - Black,Clothing,Kids Wear,StyleVault,159.59,58.83,19
+71,Winter Jacket - Black,Clothing,Kids Wear,LuxeLine,165.14,65.53,156
+72,School Uniform Set - Large,Clothing,Kids Wear,UrbanThread,135.4,53.06,142
+73,Sports Jersey,Clothing,Kids Wear,ActiveWear Co,76.71,30.74,274
+74,Sports Jersey - White,Clothing,Kids Wear,EcoCloth,31.9,13.96,91
+75,Running Shoes Pro - Pro,Clothing,Footwear,StyleVault,30.59,12.08,160
+76,Leather Chelsea Boots - Lite,Clothing,Footwear,UrbanThread,83.18,33.78,130
+77,Casual Sneakers - White,Clothing,Footwear,LuxeLine,10.31,4.48,275
+78,Casual Sneakers - White,Clothing,Footwear,EcoCloth,91.94,40.08,169
+79,Hiking Boots - White,Clothing,Footwear,StyleVault,146.74,56.35,158
+80,Formal Oxfords - Lite,Clothing,Footwear,StyleVault,142.46,57.6,98
+81,Formal Oxfords - Pro,Clothing,Footwear,EcoCloth,188.66,78.14,89
+82,Leather Belt - Black,Clothing,Accessories,ActiveWear Co,87.14,37.18,155
+83,Leather Belt - Blue,Clothing,Accessories,StyleVault,91.67,37.25,164
+84,Wool Scarf - White,Clothing,Accessories,UrbanThread,138.36,55.47,86
+85,Wool Scarf - Large,Clothing,Accessories,UrbanThread,107.93,44.32,171
+86,Baseball Cap,Clothing,Accessories,LuxeLine,137.82,52.09,101
+87,Crossbody Bag - Blue,Clothing,Accessories,StyleVault,56.51,22.49,37
+88,Sunglasses Classic - Black,Clothing,Accessories,LuxeLine,146.48,57.23,204
+89,Non-Stick Frying Pan Set - Black,Home & Kitchen,Cookware,CulinaryCraft,537.2,287.96,54
+90,Stainless Steel Pot - Pro,Home & Kitchen,Cookware,HomeEssence,485.39,252.2,237
+91,Cast Iron Skillet - Lite,Home & Kitchen,Cookware,CulinaryCraft,551.71,254.96,68
+92,Ceramic Bakeware - Large,Home & Kitchen,Cookware,CulinaryCraft,570.76,307.72,258
+93,Ceramic Bakeware - Blue,Home & Kitchen,Cookware,CulinaryCraft,545.5,269.8,81
+94,Knife Block Set - Blue,Home & Kitchen,Cookware,NestWell,454.78,242.85,141
+95,Knife Block Set - Black,Home & Kitchen,Cookware,LivingSpace,381.64,182.22,39
+96,Blender Pro 1000 - Black,Home & Kitchen,Appliances,KitchenPro,211.46,114.04,41
+97,Blender Pro 1000 - Blue,Home & Kitchen,Appliances,HomeEssence,150.28,78.05,109
+98,Air Fryer XL - Large,Home & Kitchen,Appliances,KitchenPro,208.56,103.57,31
+99,Air Fryer XL - Large,Home & Kitchen,Appliances,HomeEssence,260.77,140.94,299
+100,Coffee Maker Deluxe - Large,Home & Kitchen,Appliances,CulinaryCraft,294.02,160.03,152
+101,Coffee Maker Deluxe - Large,Home & Kitchen,Appliances,NestWell,536.6,286.32,275
+102,Toaster Oven - Blue,Home & Kitchen,Appliances,HomeEssence,300.6,143.47,248
+103,Electric Kettle - Black,Home & Kitchen,Appliances,CulinaryCraft,406.28,215.25,84
+104,Electric Kettle - Pro,Home & Kitchen,Appliances,NestWell,588.71,296.36,201
+105,Ergonomic Office Chair,Home & Kitchen,Furniture,KitchenPro,64.1,31.59,236
+106,Modern Coffee Table - Large,Home & Kitchen,Furniture,LivingSpace,236.77,111.56,167
+107,Modern Coffee Table - Large,Home & Kitchen,Furniture,LivingSpace,529.58,253.05,215
+108,Bookshelf Unit - Black,Home & Kitchen,Furniture,LivingSpace,290.12,152.28,26
+109,Dining Chair Set - Black,Home & Kitchen,Furniture,KitchenPro,472.01,243.17,15
+110,Bedside Table - Pro,Home & Kitchen,Furniture,HomeEssence,378.47,179.34,242
+111,LED Desk Lamp - Pro,Home & Kitchen,Decor,KitchenPro,287.03,136.52,188
+112,Wall Art Canvas - Pro,Home & Kitchen,Decor,HomeEssence,470.0,219.2,159
+113,Throw Pillow Set - Lite,Home & Kitchen,Decor,CulinaryCraft,558.39,283.43,192
+114,Area Rug 5x7 - Lite,Home & Kitchen,Decor,HomeEssence,59.45,30.86,124
+115,Decorative Vase - Large,Home & Kitchen,Decor,NestWell,512.41,261.35,61
+116,Decorative Vase - Pro,Home & Kitchen,Decor,HomeEssence,39.02,19.64,189
+117,Storage Bins Pack - Blue,Home & Kitchen,Storage,HomeEssence,22.39,11.02,250
+118,Storage Bins Pack - Blue,Home & Kitchen,Storage,KitchenPro,577.05,296.35,235
+119,Wardrobe Organizer - Large,Home & Kitchen,Storage,NestWell,444.26,242.81,138
+120,Underbed Storage - Large,Home & Kitchen,Storage,LivingSpace,286.94,152.82,137
+121,Underbed Storage - Black,Home & Kitchen,Storage,CulinaryCraft,158.6,86.19,142
+122,Kitchen Drawer Divider - Blue,Home & Kitchen,Storage,HomeEssence,348.35,180.03,172
+123,Kitchen Drawer Divider - Large,Home & Kitchen,Storage,LivingSpace,512.8,240.08,108
+124,Shoe Rack,Home & Kitchen,Storage,NestWell,214.09,115.19,141
+125,Shoe Rack - Blue,Home & Kitchen,Storage,CulinaryCraft,317.22,148.81,123
+126,Adjustable Dumbbells - Large,Sports & Outdoors,Fitness Equipment,AdventureKit,351.48,173.63,251
+127,Yoga Mat Premium - Lite,Sports & Outdoors,Fitness Equipment,FitCore,64.66,29.31,124
+128,Resistance Bands Set - White,Sports & Outdoors,Fitness Equipment,SportEdge,247.16,119.37,217
+129,Resistance Bands Set - Black,Sports & Outdoors,Fitness Equipment,FitCore,188.86,89.81,156
+130,Jump Rope Pro - Black,Sports & Outdoors,Fitness Equipment,TrailBlaze,366.21,169.3,274
+131,Foam Roller - White,Sports & Outdoors,Fitness Equipment,SportEdge,374.52,171.73,268
+132,Hiking Backpack 40L - White,Sports & Outdoors,Outdoor Gear,TrailBlaze,419.65,193.22,184
+133,Camping Tent 4P - Pro,Sports & Outdoors,Outdoor Gear,PeakPerformance,359.84,159.82,23
+134,Sleeping Bag - Large,Sports & Outdoors,Outdoor Gear,PeakPerformance,354.75,157.55,251
+135,Sleeping Bag - White,Sports & Outdoors,Outdoor Gear,AdventureKit,25.88,11.89,245
+136,Portable Stove - Large,Sports & Outdoors,Outdoor Gear,PeakPerformance,483.43,220.56,244
+137,Trekking Poles - Black,Sports & Outdoors,Outdoor Gear,TrailBlaze,212.33,93.24,27
+138,Running Shorts - Pro,Sports & Outdoors,Sports Apparel,AdventureKit,60.88,27.75,285
+139,Running Shorts - Blue,Sports & Outdoors,Sports Apparel,AdventureKit,306.13,150.42,267
+140,Compression Shirt - Pro,Sports & Outdoors,Sports Apparel,FitCore,162.72,79.49,219
+141,Compression Shirt - Lite,Sports & Outdoors,Sports Apparel,TrailBlaze,318.08,156.03,50
+142,Sports Bra - Pro,Sports & Outdoors,Sports Apparel,TrailBlaze,147.02,64.66,122
+143,Track Pants,Sports & Outdoors,Sports Apparel,FitCore,95.13,44.83,240
+144,Cycling Jersey - Lite,Sports & Outdoors,Sports Apparel,PeakPerformance,158.28,72.67,232
+145,Road Bike Helmet,Sports & Outdoors,Cycling,AdventureKit,463.47,235.27,101
+146,Bike Lock Heavy Duty,Sports & Outdoors,Cycling,PeakPerformance,330.85,171.78,72
+147,Cycling Gloves - Blue,Sports & Outdoors,Cycling,FitCore,400.45,195.87,291
+148,Water Bottle Cage - Pro,Sports & Outdoors,Cycling,FitCore,244.97,112.98,206
+149,Bike Pump - Pro,Sports & Outdoors,Cycling,FitCore,230.11,112.62,221
+150,Bike Pump,Sports & Outdoors,Cycling,SportEdge,140.17,61.78,294
+151,Camping Chair - Pro,Sports & Outdoors,Camping,AdventureKit,296.59,149.85,89
+152,Camping Chair - Blue,Sports & Outdoors,Camping,SportEdge,332.71,172.99,92
+153,Cooler Box 50L - White,Sports & Outdoors,Camping,FitCore,485.14,231.47,209
+154,Cooler Box 50L - Lite,Sports & Outdoors,Camping,AdventureKit,341.65,175.73,168
+155,Headlamp LED - Blue,Sports & Outdoors,Camping,PeakPerformance,158.33,82.77,281
+156,Headlamp LED - Large,Sports & Outdoors,Camping,AdventureKit,62.26,28.4,59
+157,Camp Cookware Set - Black,Sports & Outdoors,Camping,PeakPerformance,335.67,162.49,211
+158,Inflatable Mattress - Black,Sports & Outdoors,Camping,PeakPerformance,318.85,153.0,226
+159,Inflatable Mattress - Lite,Sports & Outdoors,Camping,AdventureKit,148.18,65.88,147
+160,Hydrating Face Serum - White,Beauty & Personal Care,Skincare,PureEssence,25.23,9.67,122
+161,Hydrating Face Serum - Large,Beauty & Personal Care,Skincare,PureEssence,86.21,30.49,47
+162,SPF 50 Sunscreen - Lite,Beauty & Personal Care,Skincare,AuraBeauty,73.52,23.76,78
+163,Night Repair Cream - Black,Beauty & Personal Care,Skincare,AuraBeauty,80.25,26.81,247
+164,Night Repair Cream - Pro,Beauty & Personal Care,Skincare,FreshFace,72.85,23.69,97
+165,Vitamin C Toner - Large,Beauty & Personal Care,Skincare,VelvetTouch,130.68,43.69,212
+166,Clay Face Mask - Pro,Beauty & Personal Care,Skincare,FreshFace,124.51,41.69,152
+167,Clay Face Mask - Pro,Beauty & Personal Care,Skincare,AuraBeauty,149.83,52.33,76
+168,Argan Oil Shampoo - Blue,Beauty & Personal Care,Haircare,AuraBeauty,57.0,20.16,278
+169,Argan Oil Shampoo - Blue,Beauty & Personal Care,Haircare,FreshFace,140.46,52.79,122
+170,Repair Conditioner - Lite,Beauty & Personal Care,Haircare,AuraBeauty,129.54,44.53,162
+171,Hair Serum,Beauty & Personal Care,Haircare,AuraBeauty,62.81,22.7,77
+172,Hair Serum - Large,Beauty & Personal Care,Haircare,GlowLab,25.92,9.92,169
+173,Dry Shampoo - Blue,Beauty & Personal Care,Haircare,PureEssence,22.15,8.39,7
+174,Dry Shampoo - Large,Beauty & Personal Care,Haircare,AuraBeauty,131.66,50.41,38
+175,Hair Mask Deep - Large,Beauty & Personal Care,Haircare,VelvetTouch,56.07,20.38,41
+176,Hair Mask Deep - Large,Beauty & Personal Care,Haircare,AuraBeauty,103.75,36.56,162
+177,Matte Lipstick Set - Lite,Beauty & Personal Care,Makeup,PureEssence,95.67,31.71,147
+178,Foundation Medium - Black,Beauty & Personal Care,Makeup,AuraBeauty,69.61,22.41,51
+179,Eyeshadow Palette - White,Beauty & Personal Care,Makeup,VelvetTouch,136.28,43.37,28
+180,Eyeshadow Palette - Pro,Beauty & Personal Care,Makeup,AuraBeauty,61.22,19.91,271
+181,Mascara Volume - Lite,Beauty & Personal Care,Makeup,FreshFace,32.13,10.3,195
+182,Blush Compact - Lite,Beauty & Personal Care,Makeup,AuraBeauty,78.66,27.99,118
+183,Eau de Parfum 50ml - Lite,Beauty & Personal Care,Fragrances,VelvetTouch,73.25,26.49,238
+184,Eau de Parfum 50ml - White,Beauty & Personal Care,Fragrances,FreshFace,85.61,27.41,176
+185,Body Mist Fresh - Blue,Beauty & Personal Care,Fragrances,PureEssence,106.01,36.78,154
+186,Body Mist Fresh - White,Beauty & Personal Care,Fragrances,FreshFace,129.16,41.65,195
+187,Cologne Classic,Beauty & Personal Care,Fragrances,VelvetTouch,148.95,50.0,202
+188,Cologne Classic - Lite,Beauty & Personal Care,Fragrances,FreshFace,88.35,32.07,25
+189,Roll-on Perfume - Large,Beauty & Personal Care,Fragrances,FreshFace,126.25,47.75,117
+190,Roll-on Perfume - Lite,Beauty & Personal Care,Fragrances,PureEssence,58.02,20.86,128
+191,Scented Candle,Beauty & Personal Care,Fragrances,AuraBeauty,136.27,49.09,158
+192,Electric Trimmer - Lite,Beauty & Personal Care,Grooming,VelvetTouch,111.99,35.98,151
+193,Electric Trimmer - Pro,Beauty & Personal Care,Grooming,VelvetTouch,66.99,22.04,276
+194,Beard Oil - Lite,Beauty & Personal Care,Grooming,VelvetTouch,125.92,41.93,246
+195,Beard Oil - Black,Beauty & Personal Care,Grooming,GlowLab,131.59,48.86,239
+196,Face Wash Men - White,Beauty & Personal Care,Grooming,FreshFace,130.13,47.59,203
+197,Body Lotion - Blue,Beauty & Personal Care,Grooming,GlowLab,120.27,38.0,274
+198,Nail Care Kit - Large,Beauty & Personal Care,Grooming,AuraBeauty,103.53,37.48,299
+199,Nail Care Kit,Beauty & Personal Care,Grooming,AuraBeauty,98.66,33.64,119
