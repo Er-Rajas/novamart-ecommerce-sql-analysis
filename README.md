@@ -88,13 +88,6 @@ novamart-ecommerce-sql-analysis/
 
 The presentation covers the business problem, dataset, SQL approach, category revenue, profitability, customer value, inventory risk, payment methods, revenue trends, management takeaways, and a SQL quality review.
 
-## Visuals / Dashboard
-
-Add dashboard screenshots under `assets/` when the dashboard is ready.
-
-```md
-![NovaMart Sales Dashboard](assets/novamart-dashboard.png)
-```
 
 ## Data
 
